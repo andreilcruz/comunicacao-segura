@@ -1,0 +1,10 @@
+2024-12-13 10:53:04,191 - INFO - Conectado ao servidor.
+2024-12-13 10:53:08,357 - INFO - Mensagem enviada: andrei
+2024-12-13 10:54:34,449 - INFO - Resposta recebida do servidor: andrei
+2024-12-13 10:54:57,239 - INFO - Mensagem enviada: andrei
+2024-12-13 10:56:20,681 - INFO - Resposta recebida do servidor: joia
+2024-12-13 10:58:47,166 - ERROR - Erro inesperado: [WinError 10054] Foi forçado o cancelamento de uma conexão existente pelo host remoto
+2024-12-13 10:58:47,167 - INFO - Conexão fechada.
+2024-12-13 10:58:54,435 - INFO - Conectado ao servidor.
+2024-12-13 10:58:57,539 - INFO - Mensagem enviada: a
+2024-12-13 11:43:20,375 - INFO - Resposta recebida do servidor: dwa
